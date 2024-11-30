@@ -1,0 +1,24 @@
+
+# Detailed List of Processes from the Target System:
+
+PID    PPID   Name               Arch   Session   User                         Path
+0      0      [System Process]   x64    0         NT AUTHORITY\SYSTEM          N/A
+4      0      System             x64    0         NT AUTHORITY\SYSTEM          N/A
+184    544    svchost.exe        x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\svchost.exe
+308    4      smss.exe           x64    0         NT AUTHORITY\LOCAL SERVICE   C:\Windows\System32\smss.exe
+320    544    svchost.exe        x64    0         NT AUTHORITY\NETWORK SERVICE C:\Windows\System32\svchost.exe
+340    544    svchost.exe        x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\svchost.exe
+396    388    csrss.exe          x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\csrss.exe
+448    388    wininit.exe        x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\wininit.exe
+456    440    csrss.exe          x64    1         NT AUTHORITY\SYSTEM          C:\Windows\System32\csrss.exe
+496    440    winlogon.exe       x64    1         NT AUTHORITY\SYSTEM          C:\Windows\System32\winlogon.exe
+544    448    services.exe       x64    1         NT AUTHORITY\SYSTEM          C:\Windows\System32\services.exe
+552    448    lsass.exe          x64    1         NT AUTHORITY\SYSTEM          C:\Windows\System32\lsass.exe
+560    448    lsm.exe            x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\lsm.exe
+656    544    svchost.exe        x64    0         NT AUTHORITY\NETWORK SERVICE C:\Windows\System32\svchost.exe
+720    544    VBoxService.exe    x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\VBoxService.exe
+786    544    svchost.exe        x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\svchost.exe
+924    544    svchost.exe        x64    0         NT AUTHORITY\LOCAL SERVICE   C:\Windows\System32\svchost.exe
+1060   544    dcserverhttpd.exe  x86    0         NT AUTHORITY\LOCAL SERVICE   C:\Windows\System32\dcserverhttpd.exe
+1168   544    spoolsv.exe        x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\spoolsv.exe
+1212   544    svchost.exe        x64    0         NT AUTHORITY\SYSTEM          C:\Windows\System32\svchost.exe
